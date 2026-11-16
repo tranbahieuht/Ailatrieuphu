@@ -1,0 +1,27 @@
+{
+  "intro": {
+    "source": "INTRO AI LÀ TRIỆU PHÚ 2015-2020 TRÊN POWERPOINT (1).mp4",
+    "startSeconds": 0,
+    "endSeconds": null
+  },
+  "correct-10": {
+    "source": "Ai là triệu phú - Nhạc trả lời đúng câu 10 (Không phải mốc quan trọng).mp4",
+    "startSeconds": 0,
+    "endSeconds": null
+  },
+  "victory": {
+    "source": "Ai Là Triệu Phú - Nhạc trả lời đúng câu hỏi số 15 (Bản dài).mp4",
+    "startSeconds": 0,
+    "endSeconds": null
+  },
+  "ending": {
+    "source": "Nhạc Hiệu Kết Thúc Ai Là Triệu Phú 2020 In Mari Group Cubed Low Voice.mp4",
+    "startSeconds": 0,
+    "endSeconds": null
+  },
+  "wrong": {
+    "source": "Tổng hợp âm thanh trả lời sai - Ai là triệu phú VTV3.mp4",
+    "startSeconds": 0,
+    "endSeconds": 8.7
+  }
+}

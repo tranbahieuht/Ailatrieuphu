@@ -1,0 +1,13 @@
+Original procedural audio for AI LA TRIEU PHU
+
+The files named original-*.wav were synthesized specifically for this project
+by scripts/prepare-audio.mjs. They contain no third-party recordings or samples.
+
+To the extent possible under law, the authors waive all copyright and related
+or neighboring rights to scripts/prepare-audio.mjs and its generated original-*.wav
+audio, under CC0 1.0 Universal.
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
+This dedication DOES NOT apply to replacement MP3 files supplied by others.
+Use such files only with the appropriate permission from their rights holders.

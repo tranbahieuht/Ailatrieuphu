@@ -1,0 +1,16 @@
+{
+  "intro": "/audio/intro.mp3",
+  "question-easy": "/audio/original-question-easy.wav",
+  "question-medium": "/audio/original-question-medium.wav",
+  "question-hard": "/audio/original-question-hard.wav",
+  "final-answer": "/audio/original-final-answer.wav",
+  "correct": "/audio/original-correct.wav",
+  "wrong": "/audio/wrong.mp3",
+  "milestone": "/audio/original-milestone.wav",
+  "victory": "/audio/victory.mp3",
+  "timeout": "/audio/original-timeout.wav",
+  "lifeline": "/audio/original-lifeline.wav",
+  "warning": "/audio/original-warning.wav",
+  "correct-10": "/audio/correct-10.mp3",
+  "ending": "/audio/ending.mp3"
+}
