@@ -1,8 +1,8 @@
 {
   "intro": "/audio/intro.mp3",
-  "question-easy": "/audio/original-question-easy.wav",
-  "question-medium": "/audio/original-question-medium.wav",
-  "question-hard": "/audio/original-question-hard.wav",
+  "question-easy": "/audio/countdown.mp3",
+  "question-medium": "/audio/countdown.mp3",
+  "question-hard": "/audio/countdown.mp3",
   "final-answer": "/audio/original-final-answer.wav",
   "correct": "/audio/original-correct.wav",
   "wrong": "/audio/wrong.mp3",

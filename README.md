@@ -42,6 +42,7 @@ Các câu hỏi và giải thích là nội dung biên soạn, diễn đạt l�
 | `public/audio/victory.mp3` | Trả lời đúng câu 15, bản dài |
 | `public/audio/wrong.mp3` | Trả lời sai; đoạn đầu 0–8,7 giây của video tổng hợp |
 | `public/audio/ending.mp3` | Màn kết quả khi thắng, trả lời sai, hết giờ hoặc dừng giữ điểm |
+| `public/audio/countdown.mp3` | Nhạc từ `NHẠC TÍNH DÂY.mp4`, phát khi đồng hồ đếm ngược ở tất cả 15 câu |
 
 Các MP3 đã được tách âm thanh từ MP4, không kèm hình ảnh. Tên video nguồn và đoạn trích được lưu tại `public/audio/sources.json`. Nhạc câu 15 phát khi công bố đáp án; khi người chơi bấm xem kết quả, nhạc kết thúc thay thế bản này. Sang câu mới, hiệu ứng của câu trước được dừng.
 

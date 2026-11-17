@@ -52,6 +52,12 @@ for (const [name, a] of Object.entries(arrangements)) {
   if (!existsSync(resolve(directory, fallback))) writeFileSync(resolve(directory, fallback), buffer);
   manifest[name] = existsSync(resolve(directory, `${name}.mp3`)) ? `/audio/${name}.mp3` : `/audio/${fallback}`;
 }
+// Use the supplied countdown recording throughout all question difficulty levels.
+if (existsSync(resolve(directory, 'countdown.mp3'))) {
+  for (const name of ['question-easy', 'question-medium', 'question-hard']) {
+    manifest[name] = '/audio/countdown.mp3';
+  }
+}
 // Dedicated supplied cues; keep sensible fallbacks when no override is present.
 for (const [name, fallback] of Object.entries({ 'correct-10': 'milestone', ending: 'intro' })) {
   manifest[name] = existsSync(resolve(directory, `${name}.mp3`)) ? `/audio/${name}.mp3` : manifest[fallback];

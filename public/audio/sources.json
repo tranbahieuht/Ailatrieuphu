@@ -23,5 +23,10 @@
     "source": "Tổng hợp âm thanh trả lời sai - Ai là triệu phú VTV3.mp4",
     "startSeconds": 0,
     "endSeconds": 8.7
+  },
+  "countdown": {
+    "source": "NHẠC TÍNH DÂY.mp4",
+    "startSeconds": 0,
+    "endSeconds": null
   }
 }
